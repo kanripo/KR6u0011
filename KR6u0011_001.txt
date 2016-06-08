@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:30.558297
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:00
 #+TITLE: 大方廣華嚴十惡品經
 #+PROPERTY: CBETA_ID T85n2875
 #+PROPERTY: ID KR6u0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2875
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0011_T_000-1359b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0011_T_001-1359b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2875¶
-
- 大方廣華嚴十惡品經¶
+No. 2875¶
+大方廣華嚴十惡品經¶
 ¶
 
 善男子□如國王統領國事多饒□□□□¶
